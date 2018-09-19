@@ -4,9 +4,9 @@ eureka:
       defaultZone: http://localhost:8010/eureka/
 ---
 spring:
-   profiles:
-      dcwords: Superman,MujerMaravilla,Batman,Flash
+   profiles: dc
+ words: Superman,MujerMaravilla,Batman,Flash
 ---
 spring:
-   profiles:
-      marvelwords: IronMan,Thor,Spiderman,CapitanAmerica,Hulk
+   profiles: marvel
+words: IronMan,Thor,Spiderman,CapitanAmerica,Hulk
