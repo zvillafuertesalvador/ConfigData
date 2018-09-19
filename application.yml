@@ -5,8 +5,8 @@ eureka:
 ---
 spring:
    profiles: dc
- words: Superman,MujerMaravilla,Batman,Flash
+ heroes: Superman,MujerMaravilla,Batman,Flash
 ---
 spring:
    profiles: marvel
-words: IronMan,Thor,Spiderman,CapitanAmerica,Hulk
+heroes: IronMan,Thor,Spiderman,CapitanAmerica,Hulk
