@@ -1,11 +1,11 @@
 eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8010/eureka/
+   client:
+      serviceUrl:
+         defaultZone: http://localhost:8010/eureka/
 ---
 spring:
    profiles: dc
- heroes: Superman,MujerMaravilla,Batman,Flash
+heroes: Superman,MujerMaravilla,Batman,Flash
 ---
 spring:
    profiles: marvel
