@@ -9,4 +9,4 @@ spring:
 ---
 spring:
    profiles:
-      marvelwords:IronMan,Thor,Spiderman,CapitanAmerica,Hulk
+      marvelwords: IronMan,Thor,Spiderman,CapitanAmerica,Hulk
