@@ -9,4 +9,4 @@ heroes: Superman, Mujer Maravilla, Batman, Flash, Mifarma
 ---
 spring:
    profiles: marvel
-heroes: IronMan, Thor, Spiderman, CapitanAmerica, Hulk, Inkafarma
+heroes: IronMan, Thor, Spiderman, Capitan America, Hulk, Inkafarma
