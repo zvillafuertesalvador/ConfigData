@@ -5,8 +5,8 @@ eureka:
 ---
 spring:
    profiles: dc
-heroes: Superman, Mujer Maravilla, Batman, Flash
+heroes: Superman, Mujer Maravilla, Batman, Flash, Mifarma
 ---
 spring:
    profiles: marvel
-heroes: IronMan, Thor, Spiderman, CapitanAmerica, Hulk
+heroes: IronMan, Thor, Spiderman, CapitanAmerica, Hulk, Inkafarma
